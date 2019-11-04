@@ -5,7 +5,7 @@ For this assignment you will need to upload your resume and provide links to you
 [Online Profiles Assignment](https://education.launchcode.org/liftoff/modules/assignments/online-profiles)
 
 ## Submission Instructions
- 
+
 ### GitHub
 Provide a link to your GitHub account here.
 https://github.com/megathuber
