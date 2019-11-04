@@ -17,7 +17,8 @@ Admin - There will be an administrative input page for updating loan calculation
 Java, Spring, Thymeleaf, Bootstrap, HTML, CSS, Less Annoying CRM
 ### What I'll Have to Learn
 I will have to learn how to build a project from the ground up.  I am worried about the code that we were able to start with on persistent, I will need to do it myself on this project.  I will also need to do much longer forms than we have done in the past with somewhat heavy calculations for all the parts and pieces of the loan worksheets.  I am also very excited to learn how to tie all of this back into my CRM system.
+Update - I have decided to use React for my front end so this is the major new piece of material I will be learning.  I have used Gavin's Liftoff tutorial for React and a reference he recommended in the tutorial, a Udemy class on React from in28minutes.
 ### Project Tracker
-Link to Trello board:
-https://trello.com/b/OgwyAYFn/liftoff-project
-
+Link to Trello and GitHub board:
+https://github.com/megathuber/mortgage-advisor/projects/1
+https://trello.com/b/OgwyAYFn/liftoff-project (stopped using and switchid to github)
