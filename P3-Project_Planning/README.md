@@ -10,9 +10,9 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 <ul>
-<li><a href="/Project_Planning/DTI.jpg">DTI</a></li>
-<li><a href="/Project_Planning/LoaWsInput2.jpg">Loan Worksheet</a></li>
-<li><a href="/Project_Planning/ProjectOverview.jpg">Project Overview</a></li>
+<li><a href="/P3-Project_Planning/DTI.jpg">DTI</a></li>
+<li><a href="/P3-Project_Planning/LoaWsInput2.jpg">Loan Worksheet</a></li>
+<li><a href="/P3-Project_Planning/ProjectOverview.jpg">Project Overview</a></li>
 </ul>
 ### Project Tracker
 
