@@ -16,7 +16,7 @@ Include at least 3 wireframes here, adding images or files to your repository as
 </ul>
 ### Project Tracker
 
-Include link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 https://trello.com/b/OgwyAYFn/liftoff-project (stopped using and switched to githup project tracking)
 https://github.com/megathuber/mortgage-advisor/projects/1
 ### Project Repo Link
